@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sarit-chaet-hudis
-- 🌱 I’m currently a fullstack student at Appleseeds.
+- 🌱 I graduated as a fullstack student at Appleseeds.
+- 🍯 I'm a front-end developer at Honeybook (awesome place) 
+
 - Courses I've completed: 
 - https://campus.gov.il/course/course-v1-tau-acd_tau_cs101x/
 - https://campus.gov.il/course/course-v1-cs-gov-cs-nextpy102/
